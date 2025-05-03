@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdulazeez1718/research-assistant/main/assets/logo.png" alt="Research Assistant Logo" width="200"/>
+ 
   
   # Research Assistant Chrome Extension
   
@@ -75,20 +75,20 @@ Research Assistant is a powerful Chrome extension that leverages the Gemini AI A
 ### Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/abdulazeez1718/research-assistant.git
+#git clone https://github.com/abdulazeez1718/research-assistant.git
 
 # Navigate to backend directory
-cd research-assistant/backend
+#cd research-assistant/backend
 
 # Install dependencies
-mvn install
+#mvn install
 
 # Configure application.properties
 # Add your Gemini AI API key
-spring.gemini.api.key=your_api_key_here
+#spring.gemini.api.key=AIzaSyAQf5XSXpAc-AoUbXUEgkApfuJUzB8EEkQ
 
 # Run the application
-mvn spring-boot:run
+#mvn spring-boot:run
 ```
 
 ### Extension Setup
@@ -143,11 +143,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
 
-Abdulaziz - [LinkedIn](https://www.linkedin.com/in/abdulazeez-kimsanbayev-67a842255) - abdulazizkimsanbayev1718@gmail.com
 
-Project Link: [https://github.com/abdulazeez1718/research-assistant](https://github.com/abdulazeez1718/research-assistant)
+
+
 
 ---
 
